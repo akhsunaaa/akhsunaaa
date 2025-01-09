@@ -5,6 +5,7 @@
 <a href="https://www.linkedin.com/in/anushka-jain5674"><img alt="Linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
 <a href="https://www.instagram.com/_anu723_"><img alt="Email" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452229/instagram-1.svg"/></a>
 <a href="https://www.youtube.com/@boredbrainedbeing"><img alt="Email" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/448261/youtube.svg"/></a>
+<img src="https://profile-counter.glitch.me/anu723jain/count.svg"/>
 </p>
 
 👩‍💻 Electronics Engineer who loves to learn and try out everything, be it tech or non-tech!<br/>
