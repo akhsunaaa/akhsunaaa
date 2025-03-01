@@ -47,3 +47,6 @@
 &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhsunaaa&layout=compact&exclude_lang=java+r&theme=radical&exclude_repo=github-readme-stats,akhsunaaa.github.io#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhsunaaa&layout=compact&exclude_lang=java+r&theme=default&exclude_repo=github-readme-stats,akhsunaaa.github.io#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<br />
+
+![](https://github-profile-trophy.vercel.app/?username=akhsunaaa&show_icons=true&theme=radical#gh-dark-mode-only)
