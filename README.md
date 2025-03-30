@@ -1,6 +1,5 @@
 
 ## Hi, I'm Anushka!
-
 <a href="mailto:contact.anushkajain@gmail.com"><img alt="Email" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/349379/gmail-old.svg"/></a>
 <a href="https://www.linkedin.com/in/anushka-jain5674"><img alt="Linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
 <a href="https://www.instagram.com/_anu723_"><img alt="Email" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452229/instagram-1.svg"/></a>
@@ -38,6 +37,7 @@
 
 #
 > ### `💭 Love me only till Spring 🌸`
+> <img src = "https://count.getloli.com/@akhsunaaa?name=akhsuna&theme=love-and-deepspace&align=center&pixeleted=0&darkmode=auto">
 #
 
 ### 📊 Stats
@@ -50,3 +50,5 @@
 <br />
 
 ![](https://github-profile-trophy.vercel.app/?username=akhsunaaa&show_icons=true&theme=radical#gh-dark-mode-only)
+
+<!-- <img src="https://count.getloli.com/get/@akhsunaaa?theme=rule23"> -->
