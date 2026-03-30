@@ -1,12 +1,13 @@
 
 ## Hi, I'm Anushka!
-<a href="mailto:contact.anushkajain@gmail.com"><img alt="Email" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/349379/gmail-old.svg"/></a>
+<a href="mailto:contact.anushkajain@gmail.com"><img alt="Email" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353812/google-gmail.svg"/></a>
 <a href="https://www.linkedin.com/in/anushka-jain5674"><img alt="Linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
 <a href="https://www.instagram.com/_anu723_"><img alt="Instagram" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452229/instagram-1.svg"/></a>
 <a href="https://x.com/akhsuna_"><img alt="Twitter/X" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" /></a>
 <a href="https://www.threads.net/@_anu723_"> <img alt="Twitter/X" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/akhsunaaa/akhsunaaa/e41e1ef82ba2d745d08562caa24a8b6b7821df5c/threads-app-icon.svg" /></a>
-<a href="https://www.youtube.com/@boredbrainedbeing"><img alt="Email" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/448261/youtube.svg"/></a>&emsp;
-<img src="https://profile-counter.glitch.me/anu723jain/count.svg"/>
+<a href="https://www.youtube.com/@boredbrainedbeing"><img alt="Email" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/448261/youtube.svg"/></a>
+<a href="https://pin.it/2jFTU0XO7"><img alt="Pinterest" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354183/pinterest.svg"/></a><!--&emsp;-->
+<!-- <img src="https://profile-counter.glitch.me/anu723jain/count.svg"/> -->
 </p>
 
 👩‍💻 Electronics Engineer who loves to learn and try out everything, be it tech or non-tech!<br/>
@@ -20,6 +21,8 @@
 
 ### 🧰 Languages and Tools
 
+
+<img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_white.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
