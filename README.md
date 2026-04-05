@@ -43,7 +43,8 @@
 #
 > ### `💭 Love me only till Spring 🌸`
 > <img src = "https://count.getloli.com/@akhsunaaa?name=akhsuna&theme=love-and-deepspace&align=center&pixeleted=0&darkmode=auto">
-#
+<!-- #
+
 
 ### 📊 Stats
 
@@ -55,5 +56,6 @@
 <br />
 
 ![](https://github-profile-trophy.vercel.app/?username=akhsunaaa&show_icons=true&theme=radical#gh-dark-mode-only)
+-->
 
 <!-- <img src="https://count.getloli.com/get/@akhsunaaa?theme=rule23"> -->
