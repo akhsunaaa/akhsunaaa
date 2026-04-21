@@ -1,6 +1,6 @@
 
 ## Hi, I'm Anushka!
-<a href="mailto:contact.anushkajain@gmail.com"><img alt="Email" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353812/google-gmail.svg"/></a>
+<a href="mailto:anu723jain@gmail.com"><img alt="Email" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353812/google-gmail.svg"/></a>
 <a href="https://www.linkedin.com/in/anushka-jain5674"><img alt="Linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
 <a href="https://www.instagram.com/_anu723_"><img alt="Instagram" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452229/instagram-1.svg"/></a>
 <a href="https://x.com/akhsuna_"><img alt="Twitter/X" width="27px" style="padding-right:10px;" src="https://github.com/akhsunaaa/akhsunaaa/blob/main/logo.svg" /></a>
