@@ -11,9 +11,10 @@
 </p>
 
 👩‍💻 Electronics Engineer who loves to learn and try out everything, be it tech or non-tech!<br/>
-👩‍🎓 Studying Electronics and Communications Engineering AIML at MIT World Peace University, Pune, India<br/>
+<!-- 👩‍🎓 Studying Electronics and Communications Engineering AIML at MIT World Peace University, Pune, India<br/> -->
 🎨 Love making portraits [✨ART✨](https://www.instagram.com/akhsuna_art)<br/>
-💭 Currently learning about game development and Unity-3d<br/>
+✈️ Here's my "so-called" [creator's page](https://www.instagram.com/map.of.akhsuna)<br/>
+<!-- 💭 Currently learning about game development and Unity-3d<br/> -->
 🎮 Genshin Impact anyone?<br/>
 🌈 Want to start posting on YouTube, but I'm too lazy to edit. Need motivation here 😭<br/>
 
